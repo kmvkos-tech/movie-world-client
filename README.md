@@ -1,4 +1,4 @@
-# Movie World Front
+# Movie World Client
 
 Movie World Front is a Vue.js application that allows users to browse, like, and hate movies. Users can also log in and sign up to access additional features.
 
